@@ -1,11 +1,11 @@
 {
-  "name": "react-portfolio-hoidanit",
+  "name": "react-portfolio-quoctien2k",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "author": {
-    "name": "Hỏi Dân IT vs Eric",
-    "url": "https://hoidanit.vn"
+    "name": "quoctien2k",
+    "url": "https://github.com/QuocTien2k"
   },
   "scripts": {
     "dev": "vite",
