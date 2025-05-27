@@ -1,0 +1,53 @@
+{
+  "appHeader": {
+    "brand": "Quốc Tiến 2k",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả"
+  },
+  "heroSection": {
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Tôi đã phải lòng lập trình và luôn không ngừng nỗ lực để phát triển bản thân kể từ đó. 🤷‍♂️",
+    "heading2": "Tôi thành thạo các công nghệ frontend cốt lõi như",
+    "heading3": "Tôi đam mê xây dựng những ứng dụng web hiện đại và tương tác.",
+    "heading4": "Công nghệ web, các sản phẩm lấy người dùng làm trung tâm và trải nghiệm UI/UX sáng tạo.",
+    "heading5": "Khi có thể, tôi cũng dành tâm huyết cho phát triển backend với"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  },
+  "project": {
+    "title": "Các dự án gần đây của",
+    "subTitle": "tôi",
+    "heading": ""
+  },
+  "about": {
+    "title.prefix": "Giới thiệu",
+    "title.highlight": "về tôi",
+    "intro.line1": "Xin chào mọi người, tôi là Đỗ Quốc Tiến đến từ TP. Hồ Chí Minh, Việt Nam.",
+    "intro.line2": "Hiện tại tôi là sinh viên năm cuối tại Đại học Văn Hiến.",
+    "hobby.intro": "Ngoài việc lập trình, tôi còn thích tham gia một số hoạt động thú vị khác!",
+    "hobbies": {
+      "gaming": "Chơi game",
+      "sports": "Chơi thể thao, đặc biệt là bóng đá",
+      "movies_travel": "Xem phim và đi du lịch"
+    },
+    "quote.text": "\"Theo đuổi ước mơ là cách bạn trở nên vô gia cư ~.~\"",
+    "quote.author": "--Jimmy O. Yang",
+    "education.title": "Học vấn",
+    "education.time": "2020-nay",
+    "position": "Kỹ sư phần mềm",
+    "school": "Trường Đại học Văn Hiến (VHU)",
+    "contact.findMeOn": "Kết nối với tôi trên",
+    "contact.me": "Liên hệ với tôi"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "appHeader": {
+    "brand": "QuocTien2k",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "heroSection": {
+    "exp": "My Skill",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About me",
+    "and": "and",
+    "heading1": "I fell in love with programming and have constantly pushed myself to grow ever since. 🤷‍♂️",
+    "heading2": "I am proficient in core frontend technologies such as",
+    "heading3": "I'm passionate about building modern and interactive web applications.",
+    "heading4": "Web technologies, user-centric products, and creative UI/UX experiences.",
+    "heading5": "Whenever possible, I also channel my passion into backend development using"
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  },
+  "project": {
+    "title": "My recent",
+    "subTitle": "Works",
+    "heading": ""
+  },
+  "about": {
+    "title.prefix": "Know Who",
+    "title.highlight": "I'M",
+    "intro.line1": "Hi Everyone, I am Do Quoc Tien from Ho Chi Minh, VietNam.",
+    "intro.line2": "I am currently a senior student at Van Hien University.",
+    "hobby.intro": "Apart from coding, some other activities that I love to do!",
+    "hobbies": {
+      "gaming": "Playing video games",
+      "sports": "Playing sports, especially football",
+      "movies_travel": "Watching movies and traveling"
+    },
+    "quote.text": "\\\"Pursuing Your Dreams Is How You Become Homeless ~.~\\\"",
+    "quote.author": "--Jimmy O Yang",
+    "education.title": "Education",
+    "education.time": "2020-present",
+    "position": "Software Engineer",
+    "school": "Van Hien University (VHU)",
+    "contact.findMeOn": "FIND ON ME",
+    "contact.me": "Contact me"
+  }
+}
