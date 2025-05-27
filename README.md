@@ -1,35 +1,15 @@
-# React TypeScript Portfolio (JavaScript) FINAL PROJECT
-Đây là source code final (JavaScript) cho series React TypeScript Portfolio (Vite) của tác giả Hỏi Dân IT (Eric)
+# 🌐 Personal Portfolio – Built with React & TypeScript
 
-### Môi trường chạy dự án: Node.js v20.14.0
-https://nodejs.org/download/release/v20.14.0/
+Chào mừng bạn đến với portfolio cá nhân của tôi!
 
-## Về tác giả
-Mọi thông tin về Tác giả Hỏi Dân IT, các bạn có thể tìm kiếm tại đây:
+Đây là nơi tôi giới thiệu về bản thân, những kỹ năng chuyên môn cũng như các dự án nổi bật mà tôi đã thực hiện. Toàn bộ giao diện được xây dựng bằng **React** kết hợp với **TypeScript**, thể hiện sự chú trọng vào tính ổn định, mở rộng và trải nghiệm người dùng hiện đại.
 
-Website chính thức: https://hoidanit.vn/
+Tôi không ngừng học hỏi và cập nhật công nghệ mới để nâng cao năng lực lập trình và phát triển sản phẩm chất lượng. Portfolio này là một phần trong hành trình đó.
 
-Youtube “Hỏi Dân IT” : https://www.youtube.com/@hoidanit
+---
 
-Tiktok “Hỏi Dân IT” :  https://www.tiktok.com/@hoidanit
+## 💬 Lời cảm ơn
 
-Fanpage “Hỏi Dân IT” : https://www.facebook.com/askITwithERIC/
+Cảm ơn bạn đã dành thời gian xem qua portfolio của tôi!  
+Mọi ý kiến đóng góp hoặc cơ hội hợp tác đều luôn được chào đón. 🙌  
 
-Udemy Hỏi Dân IT: https://www.udemy.com/user/eric-7039/
-
-===
-
-Các bước cài đặt: (chế độ development)
-1. clone code
-2. cài đặt thư viện: npm i
-3. Update file .env.development (nếu cần thiết)
-4. Chạy dự án: npm run dev
-
-===
-
-Cách chạy tại chế độ production:
-1. clone code
-2. cài đặt thư viện: npm i
-3. Update file .env.production (nếu cần thiết)
-4. Build dự án: npm run build
-5. Chạy dự án: npm run preview
