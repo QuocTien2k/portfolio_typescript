@@ -68,12 +68,12 @@ export const PROJECTS = [
     id: 1,
     imgPath: reactNativeImg,
     title: {
-      vi: "React Native Cơ Bản",
-      en: "React Native for Beginners",
+      vi: "Dự án 1",
+      en: "Project number 1",
     },
     description: {
-      vi: "Khóa học giúp bạn làm quen và xây dựng ứng dụng di động bằng React Native.",
-      en: "This course helps you get started and build mobile apps using React Native.",
+      vi: "Mô tả dự án 1......",
+      en: "Description of project 1",
     },
     githubLink:
       "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html",
@@ -84,12 +84,12 @@ export const PROJECTS = [
     id: 2,
     imgPath: springRestImg,
     title: {
-      vi: "Khóa học Java Spring REST",
-      en: "Java Spring REST Course",
+      vi: "Dự án 2",
+      en: "Project number 2",
     },
     description: {
-      vi: "Học cách xây dựng RESTful API với Java Spring từng bước từ cơ bản đến nâng cao.",
-      en: "Learn to build RESTful APIs with Java Spring step by step, from basic to advanced.",
+      vi: "Mô tả dự án 2......",
+      en: "Description of project 2",
     },
     githubLink:
       "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html",
@@ -100,12 +100,12 @@ export const PROJECTS = [
     id: 3,
     imgPath: springMvcImg,
     title: {
-      vi: "Khóa học Java Spring MVC",
-      en: "Java Spring MVC Course",
+      vi: "Dự án 3",
+      en: "Project number 3",
     },
     description: {
-      vi: "Tìm hiểu cách xây dựng ứng dụng web theo mô hình MVC với Java Spring, phù hợp cho người mới bắt đầu.",
-      en: "Learn how to build web applications using the MVC pattern with Java Spring, ideal for beginners.",
+      vi: "Mô tả dự án 3.......",
+      en: "Description of project 3",
     },
     githubLink:
       "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html",
